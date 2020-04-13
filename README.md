@@ -18,10 +18,8 @@
  - A user can apply coupon at any time
  - A user can apply only one coupon
  - A user can change applied coupon by applying another coupon, the last applied coupon discount will be applied
+  
  
- ### Technical Details
- -    
- 
- Build & Run
+ ### Build & Run
   - To run the project, first sbt must be installed
   - To run the test `sbt test` on project directory
